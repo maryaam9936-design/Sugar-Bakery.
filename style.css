@@ -1,0 +1,37 @@
+body {
+    background-color: #fff5f7;
+    color: #593b48;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: #f5c6d6;
+}
+
+h1 {
+    color: #8f3f60;
+}
+
+nav a {
+    color: #593b48;
+    text-decoration: none;
+}
+
+#home h5 {
+    color: #b44f78;
+}
+
+#about {
+    background-color: #fce1e9;
+}
+
+#order h2 {
+    color: #b44f78;
+}
+
+
+button {
+    background-color: #b44f78;
+    color: white;
+}
